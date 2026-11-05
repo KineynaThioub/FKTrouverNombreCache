@@ -16,6 +16,19 @@ Ce travail m'a permis de mettre en pratique plusieurs notions fondamentales du l
 
 Vous trouverez ci-dessous les informations nécessaires pour comprendre, lancer et tester l'application.
 
+## Prérequis
+
+Pour exécuter cette application, il faut disposer de :
+
+- Windows, Linux ou macOS.
+- Visual Studio Code ou un autre éditeur compatible.
+- Le SDK .NET correspondant à la version indiquée dans le fichier `.csproj`.
+- Un terminal pour exécuter les commandes .NET.
+
+Aucune bibliothèque externe supplémentaire n'est nécessaire.
+
+
+
 ## 1. Présentation du projet
 
 L'application propose trois choix à l'utilisateur :
@@ -106,18 +119,7 @@ FKTrouverNombreCache/
 - **FKTrouverNombreCache.csproj :** contient la configuration du projet .NET.
 - **README.md :** contient la présentation du projet et les instructions d'utilisation.
 
-## 7. Prérequis
-
-Pour exécuter cette application, il faut disposer de :
-
-- Windows, Linux ou macOS.
-- Visual Studio Code ou un autre éditeur compatible.
-- Le SDK .NET correspondant à la version indiquée dans le fichier `.csproj`.
-- Un terminal pour exécuter les commandes .NET.
-
-Aucune bibliothèque externe supplémentaire n'est nécessaire.
-
-## 8. Instructions pour lancer l'application
+## 7. Instructions pour lancer l'application
 
 ### Méthode 1 : Avec le terminal
 
@@ -145,7 +147,7 @@ dotnet run
 
 Le menu principal du jeu s'affichera dans le terminal.
 
-## 9. Scénarios de test
+## 8. Scénarios de test
 
 Les tests suivants permettent de vérifier le fonctionnement du programme :
 
@@ -160,7 +162,7 @@ Les tests suivants permettent de vérifier le fonctionnement du programme :
 | 7 | Entrer Q pendant une partie | Retour au menu selon le mode |
 | 8 | Entrer Q dans le menu principal | Fermeture du programme |
 
-## 10. Conclusion
+## 9. Conclusion
 
 Ce travail m'a permis de mieux comprendre la programmation en C# et de mettre en pratique les notions étudiées en cours.
 
