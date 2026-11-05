@@ -1,0 +1,16 @@
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\bin\Debug\net11.0\ExpressionsOperateurs.exe
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\bin\Debug\net11.0\ExpressionsOperateurs.deps.json
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\bin\Debug\net11.0\ExpressionsOperateurs.runtimeconfig.json
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\bin\Debug\net11.0\ExpressionsOperateurs.runtimeconfig.dev.json
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\bin\Debug\net11.0\ExpressionsOperateurs.dll
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\bin\Debug\net11.0\ExpressionsOperateurs.pdb
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.AssemblyInfoInputs.cache
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.AssemblyInfo.cs
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.csproj.CoreCompileInputs.cache
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.dll
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\refint\ExpressionsOperateurs.dll
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.pdb
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ExpressionsOperateurs.genruntimeconfig.cache
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\ref\ExpressionsOperateurs.dll
+C:\Users\thiou\Downloads\BoutiqueDiayma2025-master\ExpressionsOperateurs\obj\Debug\net11.0\Expressi.A4CBF919.Up2Date
