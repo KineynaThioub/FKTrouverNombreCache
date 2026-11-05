@@ -22,7 +22,7 @@ Pour exécuter cette application, il faut disposer de :
 
 - Windows, Linux ou macOS.
 - Visual Studio Code ou un autre éditeur compatible.
-- Le SDK .NET correspondant à la version indiquée dans le fichier `.csproj`.
+- Le SDK .NET correspondant à la version indiquée dans le fichier `.csproj` - version (11.0.100-rc.3.26522.148).
 - Un terminal pour exécuter les commandes .NET.
 
 Aucune bibliothèque externe supplémentaire n'est nécessaire.
